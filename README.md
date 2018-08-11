@@ -1,30 +1,30 @@
 # discorddiplomacy
 
-#OBJECTIVES
+# OBJECTIVES
 The objective of Diplomacy is to control 18 out of 34 nations by the end of a year. Alternatively, if 7 turns go by without a capture or the game reaches 35 turns, whoever controls the most territory wins.
 As well, players can agree on a draw between all standing nations if desired.
-##THE BOARD
+## THE BOARD
 There are three types of territories: Sea, Land, and Costal. 34 of the land and costal territories contain supply centers (marked by a black circle on the map). These allow you build more units in your home supply centers (and win the game).
 Note: Three costal territories have multiple coastlines (Spain, Bulgaria, and St. Petersburg). Fleets are considered as stationed at one coast or another and cannot travel from one coast to the other in a single turn.
 Note: GREY territories are neutral, and cannot be passed through.(edited)
 Units
 There are two types of units: Armies (represented by an (A) on the map) and Fleets (represented by an [F] on the map). Armies can travel into land or coastal territories, whereas Fleets can travel into coastal or sea territories. Fleets are important to help convoy units across water, support coastal battles, and create blockades.
 
-#ORDERS
+# ORDERS
 There are four basic orders in Diplomacy: HOLD, ATTACK/MOVE, SUPPORT, and CONVOY.
 
-##HOLD
+## HOLD
 This is what a unit does if given no other orders. The unit will stay in its current territory. It is able to be SUPPORTed by other units, however. If a HOLDing unit is attacked and is defeated, it must either retreat or disband (to be discussed further down).
 
-##ATTACK/MOVE
+## ATTACK/MOVE
 This moves a unit into an adjacent province. Units may only move one territory per turn. A unit may not move into a territory held by another unit unless it is SUPPORTED, and the support is higher than the defender's. If an attack is unsuccessful, the unit attacking does not move.
 
-##SUPPORT
+## SUPPORT
 This is the most complex part of the game (so if you can follow this you're set you handsome devil).
 Supporting a unit (yours or someone else's) increases the unit's power moving into another territory.  (AGAIN YOU CAN SUPPORT OTHER PEOPLE'S UNITS ) 
 (think of it like this; each unit is equal to one power. if you move into a territory controlled by someone else with one unit and support it with one of yours, that's 2:1 and you kick them out)
 In order to support a move, the supporting unit must be able to move into the territory that is being attacked.  If the supporting unit is attacked during the turn by some other unit, its support is cut. In effect, the support order becomes a hold order, as the unit must defend its province against the attack. The supporting unit remains where it was.(edited)
-CONVOY
+## CONVOY
 Fleets are able to convoy armies across water using this order. A fleet must be in a Sea territory in order to do this.  Let us say, for instance, that in Fall 1901 England has the following position:
 Army Yorkshire
 Fleet North Sea
@@ -46,7 +46,7 @@ Gameplay begins in the year 1901, and there are two moves or Movement Phases per
 On the other hand, if a player has more units than supply centers at the end of the year, then it must disband units of its choice until it has equal numbers of units and supply centers.
 Players may not choose to disband below the number of supply centers in their possession, for this would allow players to replace units in the field with new units back home instantaneously. For instance, a player who has more armies than necessary and wants a fleet in order to capture a far-away supply center cannot simply disband an army and build a new fleet on a home supply center.
 
-#LAWS
+# LAWS
 
 This is just stuff about how our particular game is gonna play out.
 
